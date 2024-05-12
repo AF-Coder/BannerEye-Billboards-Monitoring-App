@@ -26,8 +26,8 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ### License:
 This project is licensed under the MIT License.
 
-###Credits:
+### Credits:
 Icons used in this app are provided by Flutter Icons.
 
-###Support:
+### Support:
 For support, bug reports, or feature requests, please submit an issue.
